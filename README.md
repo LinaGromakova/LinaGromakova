@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @LinaGromakova
+- 👋 Hi, I’m @Lina
 - 👀 I'm interested in frontend development
-- 🌱 I’m currently learning React.js
-- ⚡ Fun fact: AAA! WOMAN!
+- 🌱 I'm currently studying algorithms and starting TypeScript
+- ⚡ Fun fact: I really love miso soup
