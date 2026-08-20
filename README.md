@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @Lina
 - 👀 I'm interested in frontend development
-- 🌱 I'm currently studying algorithms and starting TypeScript
+- 🌱 I'm currently expanding my fullstack skills with Supabase, PostgreSQL, and real-time backend logic.
 - ⚡ Fun fact: I really love miso soup
