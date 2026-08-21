@@ -6,25 +6,17 @@
 
 ---
 
-###  Tech Stack & Tools
+#### Frontend
+![React](https://shields.io) ![Next.js](https://shields.io) ![TypeScript](https://shields.io) ![Vite](https://shields.io) ![TailwindCSS](https://shields.io)
 
-![React](https://shields.io)
-![Next.js](https://shields.io)
-![TypeScript](https://shields.io)
-![Vite](https://shields.io)
-![TailwindCSS](https://shields.io)
-
-![Node.js](https://shields.io)
-![Express](https://shields.io)
-![PostgreSQL](https://shields.io)
-![Supabase](https://shields.io)
-![Vercel](https://shields.io)
+#### Backend & Infra
+![Node.js](https://shields.io) ![Express](https://shields.io) ![PostgreSQL](https://shields.io) ![Supabase](https://shields.io) ![Vercel](https://shields.io)
 
 ---
 
 ###  Key Projects
 
-* ** [ECHO](https://github.com/LinaGromakova/ECHO)** — Cyber-techno real-time messenger built with React, Vite, TS, and Supabase (In Progress).
-* ** [Alpina Svetloe](https://github.com/LinaGromakova/alpina-svetloe)** — High-performance landing page with ultra-smooth Lenis scroll and optimized assets.
-* ** [IO Messenger](https://github.com/LinaGromakova/Io)** ([Client](https://github.com/LinaGromakova/Io) / [Server](https://github.com/LinaGromakova/io-server)) — A fullstack real-time experiment with Socket.io, Express, and PostgreSQL.
+* **[ECHO](https://github.com/LinaGromakova/ECHO)** — Cyber-techno real-time messenger built with React, Vite, TS, and Supabase (In Progress).
+* **[Alpina Svetloe](https://github.com/LinaGromakova/alpina-svetloe)** — High-performance landing page with ultra-smooth Lenis scroll and optimized assets.
+* **[IO Messenger](https://github.com/LinaGromakova/Io)** ([Client](https://github.com/LinaGromakova/Io) / [Server](https://github.com/LinaGromakova/io-server)) — A fullstack real-time experiment with Socket.io, Express, and PostgreSQL.
 
